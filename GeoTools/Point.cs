@@ -1,4 +1,4 @@
-namespace GeoTools
+namespace GeoddsXtendgeoddsXtend
 {
     public class Point
     {
