@@ -1,7 +1,6 @@
-using GeoddsXtend;
 using Xunit;
 
-namespace GeoddsXtendgeoddsXtend.Helper
+namespace GeoddsXtend.Test
 {
     public class PointTest
     {
