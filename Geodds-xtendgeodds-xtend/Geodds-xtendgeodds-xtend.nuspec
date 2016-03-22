@@ -13,6 +13,6 @@
     <description>Diseño de Sistemas 2016 UTN - Library to be used in the annual assigment.</description>
     <releaseNotes>Basic Functions to be used in the annual assigment.</releaseNotes>
     <copyright>Copyright 2016</copyright>
-    <tags>Distance geocoordenates</tags>
+    <tags>Distance geocoordenates Point BelongsTo Polygon</tags>
   </metadata>
 </package>
