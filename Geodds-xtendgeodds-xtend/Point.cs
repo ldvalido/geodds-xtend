@@ -2,12 +2,12 @@ namespace GeoddsXtendgeoddsXtend
 {
     public class Point
     {
-        public double Latitude {get;set;}
+        public float Latitude {get;set;}
         
-        public double Longitude {get;set;}
+        public float Longitude {get;set;}
         
         #region C...tor
-        public Point(double latitude,double longitude)
+        public Point(float latitude,float longitude)
         {
             Latitude = latitude;
             Longitude = longitude;
