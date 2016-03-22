@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geodds-xtend", "Geodds-xtendgeodds-xtend\Geodds-xtend.csproj", "{149D9F05-E4D9-4B25-89B1-D50E84C7C538}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geodds-xtend", "Geodds-xtend\Geodds-xtend.csproj", "{149D9F05-E4D9-4B25-89B1-D50E84C7C538}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geodds-xtend.Test", "Geodds-xtendgeodds-xtend.Test\Geodds-xtend.Test.csproj", "{A7972E73-379F-4E84-AFDE-A38A76F86082}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geodds-xtend.Test", "Geodds-xtend.Test\Geodds-xtend.Test.csproj", "{A7972E73-379F-4E84-AFDE-A38A76F86082}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
