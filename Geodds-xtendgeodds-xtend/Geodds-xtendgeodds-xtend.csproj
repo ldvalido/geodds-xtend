@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Point.cs" />
     <Compile Include="PointExtension.cs" />
+    <Compile Include="Polygon.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

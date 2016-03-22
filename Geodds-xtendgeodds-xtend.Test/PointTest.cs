@@ -7,9 +7,9 @@ namespace GeoddsXtendgeoddsXtend.Helper
         [Fact]
         public void BasicGetDistanceTest()
         {
-            var sourcePoint = new Point(-34.6037, -58.3816);//Buenos Aires
+            var sourcePoint = new Point(-34.6037f, -58.3816f);//Buenos Aires
 
-            var targetPoint = new Point(-37.9799, -57.5898);//MDP
+            var targetPoint = new Point(-37.9799f, -57.5898f);//MDP
             
             var distance = sourcePoint.Distance(targetPoint);
             
