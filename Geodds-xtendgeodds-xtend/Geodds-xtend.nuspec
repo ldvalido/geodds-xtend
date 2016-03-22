@@ -3,12 +3,12 @@
   <metadata>
     <id>$id$</id>
     <version>$version$</version>
-    <title>Geodds-Xtendgeodds-Xtend</title>
+    <title>Geodds-Xtend</title>
     <authors>Leandro Valido</authors>
     <owners>UTN FRBA - Diseño de Sistemas 2016</owners>
-    <licenseUrl>https://github.com/ldvalido/geodds-xtendgeodds-xtend</licenseUrl>
-    <projectUrl>https://github.com/ldvalido/geodds-xtendgeodds-xtend</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/ldvalido/geodds-xtendgeodds-xtend/master/Geodds-xtendgeodds-xtend/UTN.ico</iconUrl>
+    <licenseUrl>https://github.com/ldvalido/geodds-xtend</licenseUrl>
+    <projectUrl>https://github.com/ldvalido/geodds-xtend</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/ldvalido/geodds-xtend/master/Geodds-xtendgeodds-xtend/UTN.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Diseño de Sistemas 2016 UTN - Library to be used in the annual assigment.</description>
     <releaseNotes>Basic Functions to be used in the annual assigment.</releaseNotes>

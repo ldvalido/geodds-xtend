@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GeoddsXtendgeoddsXtend
+namespace GeoddsXtend
 {
     public class Polygon
     {

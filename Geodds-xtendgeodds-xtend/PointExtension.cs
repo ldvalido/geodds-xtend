@@ -1,7 +1,7 @@
 using System;
 using System.Device.Location;
 
-namespace GeoddsXtendgeoddsXtend
+namespace GeoddsXtend
 {
     public static class GeoTools
     {

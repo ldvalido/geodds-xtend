@@ -7,8 +7,8 @@
     <ProjectGuid>{149D9F05-E4D9-4B25-89B1-D50E84C7C538}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GeoddsXtendgeoddsXtend</RootNamespace>
-    <AssemblyName>Geodds-xtendgeodds-xtend</AssemblyName>
+    <RootNamespace>GeoddsXtend</RootNamespace>
+    <AssemblyName>Geodds-xtend</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
