@@ -8,7 +8,7 @@
     <owners>UTN FRBA - Diseño de Sistemas 2016</owners>
     <licenseUrl>https://github.com/ldvalido/geodds-xtendgeodds-xtend</licenseUrl>
     <projectUrl>https://github.com/ldvalido/geodds-xtendgeodds-xtend</projectUrl>
-    <iconUrl>https://github.com/ldvalido/geodds-xtendgeodds-xtend/blob/master/GeoTools/UTN.ico</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/ldvalido/geodds-xtendgeodds-xtend/master/Geodds-xtendgeodds-xtend/UTN.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Diseño de Sistemas 2016 UTN - Library to be used in the annual assigment.</description>
     <releaseNotes>Basic Functions to be used in the annual assigment.</releaseNotes>
